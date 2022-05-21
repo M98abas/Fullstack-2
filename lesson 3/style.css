@@ -1,0 +1,40 @@
+p,
+.logo {
+  /* background-color: red; */
+  /* font-style: oblique;
+  font-family: "Times New Roman", Times, serif, Arial, sans-serif;
+  font-weight: 100;
+  font-size: 70px; */
+  background: rgba(255, 0, 0, 0.573);
+  width: 30px;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 30px;
+  border: 1px solid rgb(255, 0, 0);
+  border-radius: 50px;
+  cursor: default;
+  box-shadow: -5px -2px 10px rgba(200, 0, 0, 0.4);
+  transition: 1.7s;
+}
+p:hover {
+  background: rgba(255, 0, 0, 0.798);
+  transform: scale(1.2);
+  box-shadow: -5px -2px 10px rgba(200, 0, 0, 0.9);
+}
+span {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  color: green;
+}
+h2 {
+  color: yellow;
+}
+#h-char {
+  color: red;
+  background-color: green;
+}
