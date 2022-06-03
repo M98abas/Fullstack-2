@@ -1,0 +1,9 @@
+body {
+  height: 6000px;
+  width: 6000px;
+}
+.red {
+  height: 10px;
+  width: 100vw;
+  background-color: rgb(173, 103, 103);
+}
