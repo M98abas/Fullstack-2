@@ -31,7 +31,31 @@ In this lesson We expline :
 - Upload our code to GitHub
 
 ---
+
 ## Lesson three
 
 In this lesson we expline :
+
 - What does CSS mean ?
+
+---
+
+## Lesson four
+
+In this lesson we expline :
+
+- How to create any UI/UX in HTML and CSS;
+- Add some simple animation to Our UI
+- How to use fonts from Google fonts?
+
+---
+
+### Additional Tips And tricks
+
+- Divide the UI into pieces so u can understan how to create the UI as short time as you can .
+- You can use any font's from google only do import by :
+
+              `@import url(add_the_url_here)`
+
+
+- Check the classroom apps for new tasks
